@@ -1,9 +1,9 @@
 import React from "react";
 
 export const userData = {
-  firstName: "Ronan", // feel free to replace the name value
-  lastName: "Ogor", // feel free to replace the name value
-  title: "PN React JS Killer", // feel free to replace the title value
+  firstName: "Chhon", // feel free to replace the name value
+  lastName: "Chhay Chan Vibol", // feel free to replace the name value
+  title: "The Sloth", // feel free to replace the title value
 };
 
 // Edit the User component code to output the userData data
